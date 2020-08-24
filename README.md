@@ -1,6 +1,8 @@
 
 
-![me at the grand canyon](https://imgur.com/DnGjIV1)
+<img src="https://imgur.com/DnGjIV1"
+     alt="Me at the grand canyon"
+      />
 
 ## Hi, my name is Josh! I'm a Software Engineer in Atlanta, GA.
 
@@ -13,8 +15,8 @@
 - Pixel Art 
 - Creating 2D Sprites
 ### 📫 How to reach me 
-Email: joshua.soave@gmail.com
-Phone: (912)247-1984
+- Email: joshua.soave@gmail.com
+- Phone: (912)247-1984
 ### 😄 Pronouns: He/Him
 ### :airplane: Fun fact: I used to be a flight attendant and my favorite place I've visited was The Grand Canyon! 
 
