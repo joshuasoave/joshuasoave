@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**joshuasoave/joshuasoave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![me at the grand canyon](https://imgur.com/DnGjIV1)
 
