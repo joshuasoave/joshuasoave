@@ -2,7 +2,7 @@
 
 ## Hi, my name is Josh! I'm a Software Engineer in Atlanta, GA.
 
-### :eyes: I’m currently seeking a full time opportunity as a Software Engineer. I specialize in developing full-stack applications with Javascript, Node.js, React, HTML, and CSS
+### I’m currently seeking a full time opportunity as a Software Engineer. I specialize in developing full-stack applications with Javascript, Node.js, React, HTML, and CSS
 ### 🌱 I’m currently learning:
 - C# 
 - Unity 2D Game Development 
