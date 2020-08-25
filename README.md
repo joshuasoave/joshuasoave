@@ -2,7 +2,7 @@
 
 ## Hi, my name is Josh! I'm a Software Engineer in Atlanta, GA.
 
-![me at the grand canyon](https://i.imgur.com/DnGjIV1.jpg?1)
+![me at the grand canyon](https://images.unsplash.com/photo-1516302350523-4c29d47b89e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=2250&q=80)
 
 ### I’m seeking a full time opportunity as a Software Engineer. I specialize in developing full-stack applications with Javascript, Node.js, React, HTML, and CSS
 ### 🌱 I’m currently learning:
