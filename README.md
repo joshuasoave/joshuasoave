@@ -16,9 +16,9 @@
 - Email: joshua.soave@gmail.com
 - Phone: (912)247-1984
 ### 😄 Pronouns: 
-- He/Him
+  He/Him
 ### :airplane: Fun fact: 
-- I used to be a flight attendant and my favorite place I've visited was The Grand Canyon! 
+  I used to be a flight attendant and my favorite place I've visited was The Grand Canyon! 
 
 
 Take a look at my [portfolio](https://joshsoave.com/) to see some of the projects I've worked on.
