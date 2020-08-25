@@ -2,7 +2,7 @@
 
 ## Hi, my name is Josh! I'm a Software Engineer in Atlanta, GA.
 
-![me at the grand canyon](https://i.imgur.com/UFMiZ23.jpg?2)
+![me at the grand canyon](https://i.imgur.com/DnGjIV1.jpg?1)
 
 ### I’m seeking a full time opportunity as a Software Engineer. I specialize in developing full-stack applications with Javascript, Node.js, React, HTML, and CSS
 ### 🌱 I’m currently learning:
@@ -22,7 +22,7 @@
  - Him
 ### :airplane: Fun facts: 
  - I used to be a flight attendant 
- - My favorite place I've visited was The Grand Canyon! 
+ - My favorite trip was hiking with my brother in The Grand Canyon! 
 
 
 Take a look at my [portfolio](https://joshsoave.com/) to see some of the projects I've worked on.
