@@ -16,7 +16,6 @@
 - Creating 2D Sprites
 ### 📫 How to reach me: 
 - Email: joshua.soave@gmail.com
-- Phone: (912)247-1984
 ### 😄 Pronouns: 
  - He
  - Him
