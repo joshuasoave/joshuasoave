@@ -6,9 +6,6 @@
 
 ### I specialize in developing full-stack applications with Typescript, React, Material UI, HTML, and CSS.
 
-### 🌱 I’m currently learning:
-- SQL
-- GraphQL
 ### 👯 I’m looking to collaborate on:
 - Full-stack Web Applications 
 ### 📫 How to reach me: 
