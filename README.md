@@ -14,7 +14,7 @@
  - He
  - Him
 ### :airplane: Fun facts: 
- - I used to be a flight attendant 
- - My favorite trip was hiking with my brother in The Grand Canyon! 
+ - My favorite trip I've been on was hiking with my brother in The Grand Canyon!
+ - I've been working on a daily writing challenge  
 
 ### Take a look at my [portfolio](https://joshsoave.com/) to see some of the projects I've worked on.
