@@ -1,10 +1,10 @@
 
 
-## Hi, my name is Josh! I'm a Frontend Developer in Atlanta, GA.
+## Hi, my name is Josh! I'm a Software Engineer in Atlanta, GA.
 
 ![me at the grand canyon](https://images.unsplash.com/photo-1516302350523-4c29d47b89e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=2250&q=80)
 
-### I specialize in developing applications with Typescript, React, HTML, and CSS.
+### I specialize in developing applications with JavaScript, React, HTML, and CSS.
 
 ### 👯 I’m looking to collaborate on:
 - Full-stack Web Applications 
