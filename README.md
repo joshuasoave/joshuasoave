@@ -1,6 +1,6 @@
 
 
-## Hi, my name is Josh! I'm a Software Engineer in Atlanta, GA.
+## Hi, my name is Josh, I'm a Software Engineer.
 
 ![me at the grand canyon](https://images.unsplash.com/photo-1516302350523-4c29d47b89e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=2250&q=80)
 
