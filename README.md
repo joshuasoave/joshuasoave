@@ -1,7 +1,7 @@
 
 
 ## Hi, my name is Josh. 
-I'm a Frontend Developer specializing in JavaScript, React, HTML, and CSS
+### I'm a Frontend Developer specializing in JavaScript, React, HTML, and CSS
 
 ### 👯 I’m looking to collaborate on:
 - Full-stack Web Applications 
