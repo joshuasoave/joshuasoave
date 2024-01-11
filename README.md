@@ -1,10 +1,6 @@
 
 
-## Hi, my name is Josh, I'm a Software Engineer.
-
-![me at the grand canyon](https://images.unsplash.com/photo-1516302350523-4c29d47b89e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=2250&q=80)
-
-### I specialize in developing applications with JavaScript, React, HTML, and CSS.
+## Hi, my name is Josh. I'm a Frontend Developer specializing in JavaScript, React, HTML, and CSS
 
 ### 👯 I’m looking to collaborate on:
 - Full-stack Web Applications 
@@ -15,6 +11,6 @@
  - Him
 ### :airplane: Fun facts: 
  - My favorite trip I've been on was hiking with my brother in The Grand Canyon
- - I've been working on a daily writing challenge  
+ - I love new music 
 
 ### Take a look at my [portfolio](https://joshsoave.com/) to see some of the projects I've worked on.
